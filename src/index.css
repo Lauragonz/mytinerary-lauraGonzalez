@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Ubuntu&display=swap');
+
+:root {
+    /*colors*/
+    --paynes-gray: #476a6fff;
+    --nyanza: #d2e3caff;
+    --white-smoke: #f6f4f4ff;
+    --celeste: #c2fbffff;
+    --smoky-black: #0b0a07ff;
+    --call-to-action: #ff6a47ff;
+
+
+    /*fonts*/
+    --font-text: 'Ubuntu', sans-serif;
+    --font-title: 'Quicksand', sans-serif;    
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-text);
+  background: var(--white-smoke);
+  color: var(--smoky-black);
+
+}

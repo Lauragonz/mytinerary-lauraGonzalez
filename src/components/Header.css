@@ -1,0 +1,48 @@
+.header {
+    background: var(--paynes-gray);
+    padding: 1rem;
+    color: var(--celeste);
+    margin: 0;
+}
+
+.header-title {
+    font-family: var(--font-title);
+    font-weight: bolder;
+}
+
+.header-logo {
+    height: 3rem;
+}
+
+.custom-toggler {
+    width: 100%;
+    background: var(--celeste) !important;
+}
+
+.custom-basic-nav {
+    border: 1px solid var(--paynes-gray);
+}
+
+.custom-link{
+    color: var(--celeste) !important;
+    text-align: center !important;
+}
+
+.custom-btn {
+    color: var(--celeste) !important;
+    border: 1px solid var(--celeste) !important;
+    border-radius: 50px;
+}
+
+.img-user {
+  width: 3rem;
+}
+
+
+
+
+
+
+
+
+

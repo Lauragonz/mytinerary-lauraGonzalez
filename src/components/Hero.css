@@ -1,0 +1,33 @@
+.hero {
+    background-color: var(--white-smoke);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 5rem;
+    color: var(--smoky-black);
+
+}
+
+.slogan {
+    font-family: var(--font-title);
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+
+p {
+    font-style: italic;
+    font-size: 0.8rem;
+}
+
+#call-to-action {
+    border: 3px solid var(--smoky-black) !important;
+    border-radius: 20px;
+    background: var(--call-to-action) !important;
+    color: var(--smoky-black) !important;
+    padding: 15px;
+}
+
+#call-to-action:hover {
+    background: var(--paynes-gray) !important;
+    color: var(--call-to-action) !important;
+}

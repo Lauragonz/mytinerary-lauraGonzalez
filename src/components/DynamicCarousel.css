@@ -1,0 +1,21 @@
+.carousel-container {
+  background-color: var(--paynes-gray) !important;
+  padding: 1.5rem;
+  width: 100%;
+  
+}
+
+.card-container {
+  width: 100%;
+  height: 100%;
+  background: var(--paynes-gray) !important;
+  color: var(--celeste) !important;
+  border: none !important;
+}
+
+.card-image {
+  width: 100%;
+  height: 10rem;
+  object-fit: cover;
+}
+

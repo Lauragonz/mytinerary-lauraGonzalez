@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Buenos Aires",
+        "img": "buenos-aires-1.jpeg"
+    },
+    {
+        "name": "Cordoba",
+        "img": "cordoba.jpeg"
+    },
+    {
+        "name": "Haifa",
+        "img": "haifa.jpeg"
+    },
+    {
+        "name": "London",
+        "img": "london.jpeg"
+    },
+        {
+        "name": "Madrid",
+        "img": "madrid.jpeg"
+    },
+            {
+        "name": "Miami",
+        "img": "miami.jpeg"
+    },
+            {
+        "name": "New York",
+        "img": "new-york.jpeg"
+    },
+            {
+        "name": "Otawa",
+        "img": "otawa.jpeg"
+    },
+            {
+        "name": "Paris",
+        "img": "paris-1.jpeg"
+    },
+            {
+        "name": "Rio de Janeiro",
+        "img": "rio-de-janeiro-1.jpeg"
+    },
+            {
+        "name": "Rome",
+        "img": "rome.jpeg"
+    },
+            {
+        "name": "Tel Aviv",
+        "img": "tel-aviv.jpeg"
+    }
+
+]
