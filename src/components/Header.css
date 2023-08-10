@@ -1,8 +1,11 @@
 .header {
-    background: var(--paynes-gray);
-    padding: 1rem;
-    color: var(--celeste);
-    margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: var(--paynes-gray);
+  padding: 1rem;
+  color: var(--celeste);
+  margin: 0 auto;
 }
 
 .header-title {
@@ -36,6 +39,15 @@
 
 .img-user {
   width: 3rem;
+}
+
+@media (min-width: 760px) {
+  .header {
+    width: 100%;
+    flex-direction: row !important;
+    justify-content: space-between !important;
+    align-items: center;
+  }
 }
 
 
