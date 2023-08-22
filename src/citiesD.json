@@ -1,0 +1,138 @@
+[
+  {
+      "name": "Brussels",
+      "country": "Belgium",
+      "lang": "Dutch/French",
+      "currency": "Euro",
+      "flag": "./belgica.png",
+      "description": "The cosmopolitan capital at the heart of Europe. Delight in its historic architecture, international cuisine, and renowned institutions, creating a dynamic blend of tradition and modernity.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Grand_Place_Bruselas_2.jpg"
+  },
+  {
+    "name": "Buenos Aires",
+    "country": "Argentine",
+    "lang": "Spanish",
+    "currency": "Peso",
+    "flag": "./argentina.png",
+    "description": "A captivating metropolis where European elegance meets Latin passion. Immerse yourself in tango rhythms, diverse neighborhoods, and a thriving arts and culinary scene. Discover Buenos Aires today.",
+    "img": "https://digitalnomads.world/wp-content/uploads/2021/01/Buenos-aires-digital-nomads-e1609950053154.jpg"
+  },
+  {
+    "name": "Cordoba",
+    "country": "Argentine",
+    "lang": "Spanish",
+    "currency": "Peso",
+    "flag": "./argentina.png",
+    "description": "A vibrant blend of culture and history nestled in the heart of Argentina. Explore its rich heritage, stunning architecture, and lively arts scene. Experience Córdoba's unique charm.",
+    "img": "https://deih43ym53wif.cloudfront.net/cathedral-cordoba-argentina-shutterstock_1140671330_a570eb940e.jpeg"
+  },
+  {
+    "name": "Haifa",
+    "country": "Israel",
+    "lang": "Hebrew/Arabic",
+    "currency": "NIS",
+    "flag": "./israel.png",
+    "description": "A coastal gem harmonizing lush landscapes with urban living. Experience cultural diversity, stunning views from the Baha'i Gardens, and a thriving tech scene in this Mediterranean city.",
+    "img": "https://static.amazon.jobs/locations/199/thumbnails/Haifa_Isreal.jpg?1527688190"
+  },
+  {
+    "name": "London",
+    "country": "England",
+    "lang": "English",
+    "currency": "Pound",
+    "flag": "./inglaterra.png",
+    "description": "A timeless city where history meets innovation. Explore iconic landmarks, world-class museums, and a melting pot of cultures. Immerse yourself in the vibrant energy of London life.",
+    "img": "https://assets.editorial.aetnd.com/uploads/2019/03/topic-london-gettyimages-760251843-feature.jpg"
+  },
+  {
+    "name": "Madrid",
+    "country": "Spain",
+    "lang": "Spanish",
+    "currency": "Euro",
+    "flag": "./espana.png",
+    "description": "A spirited capital radiating with art, music, and culinary delights. Embrace its lively street life, historic architecture, and passion-infused culture that defines the heart of Spain.",
+    "img": "https://www.madrid-traveller.com/wp-content/uploads/2020/10/best-time-to-visit-madrid-1024x576.jpg"
+  },
+  {
+    "name": "Miami",
+    "country": "Usa",
+    "lang": "English",
+    "currency": "Dollar",
+    "flag": "./estados-unidos-de-america.png",
+    "description": "A sun-soaked paradise blending beaches and urban flair. Experience diverse cultures, trendy nightlife, and art deco architecture that define this vibrant hub of Florida's energy and style.",
+    "img": "https://www.tripsavvy.com/thmb/3vRx9CLH1xJfp9kUAsgZY-TLQuo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/view-of-city-lit-up-at-night-743766201-5b61ee4dc9e77c00501f73e1.jpg"
+  },
+  {
+    "name": "Montreal",
+    "country": "Canada",
+    "lang": "French",
+    "currency": "Canadian Dollar",
+    "flag": "./canada.png",
+    "description": " bilingual metropolis alive with arts and culture. Explore historic neighborhoods, indulge in culinary delights, and experience a harmonious blend of European charm and North American vibrancy.",
+    "img": "https://www.tripsavvy.com/thmb/JhlSmyLE2tKkq6C4tzDiCcF057g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/things-to-do-downtown-montreal-mathieu-dupuis-getty-5a70d7a1ae9ab80037bba0ff.jpg"
+  },
+  {
+    "name": "New York",
+    "country": "Usa",
+    "lang": "English",
+    "currency": "Dollar",
+    "flag": "./estados-unidos-de-america.png",
+    "description": "The epitome of urban dynamism, offering iconic skyscrapers, Broadway spectacles, and cultural diversity. Explore the Big Apple's endless energy, fashion, and world-renowned attractions.",
+    "img": "https://i.natgeofe.com/k/5b396b5e-59e7-43a6-9448-708125549aa1/new-york-statue-of-liberty.jpg"
+  },
+  {
+    "name": "Otawa",
+    "country": "Canada",
+    "lang": "English",
+    "currency": "Canadian Dollar",
+    "flag": "./canada.png",
+    "description": "The charming Canadian capital nestled on the banks of the Ottawa River. Discover a blend of historic landmarks, vibrant cultural festivals, and governmental influence in this inviting city.",
+    "img": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/09/15/14/panoramic-view-of-downtown-ottawa-with-parliament-hill-016-credit-ottawa-tourism.jpg"
+  },
+  {
+    "name": "Paris",
+    "country": "France",
+    "lang": "French",
+    "currency": "Euro",
+    "flag": "./francia.png",
+    "description": "The romantic capital adorned with timeless elegance. Wander along the Seine, indulge in exquisite cuisine, and immerse yourself in world-class art and fashion. Discover the allure of Paris.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Paris_-_Eiffelturm_und_Marsfeld2.jpg"
+  },
+  {
+    "name": "rio de Janeiro",
+    "country": "Brazil",
+    "lang": "Portuguese",
+    "currency": "Real",
+    "flag": "./bandera-de-brasil.png",
+    "description": "A city of samba rhythms and natural wonders. Bask in the beauty of Copacabana and Sugarloaf Mountain, where vibrant culture meets breathtaking landscapes in perfect harmony.",
+    "img": "https://www.costacruceros.com/content/dam/costa/costa-magazine/article-images/what-to-see-in-rio-de-janeiro/rio-de-janeiro-panorama_YuJas-Shutterstock_1.jpg.image.1296.974.high.jpg"
+  },
+  {
+    "name": "Rome",
+    "country": "Italy",
+    "lang": "Italian",
+    "currency": "Euro",
+    "flag": "./italia.png",
+    "description": "The eternal city where ancient history blends with modern life. Marvel at iconic landmarks like the Colosseum, indulge in authentic cuisine, and soak in the rich Roman culture.",
+    "img": "https://americadomani.com/wp-content/uploads/2023/02/rome7th.jpg"
+  },
+  {
+    "name": "Sidney",
+    "country": "Australia",
+    "lang": "English",
+    "currency": "Autralian Dollar",
+    "flag": "./australia.png",
+    "description": "A dazzling harbor city where iconic landmarks meet stunning beaches. Immerse yourself in its vibrant arts scene, outdoor lifestyle, and multicultural essence that define Sydney's unique allure.",
+    "img": "https://viajes.nationalgeographic.com.es/medio/2017/02/13/shutterstock-209684521_fd608903.jpg"
+  },
+  {
+    "name": "Tel Aviv",
+    "country": "Israel",
+    "lang": "Hebrew/Arabic",
+    "currency": "NIS",
+    "flag": "./israel.png",
+    "description": "A Mediterranean jewel pulsating with innovation and creativity. Embrace golden beaches, eclectic nightlife, and a thriving tech ecosystem in this modern city by the sea.",
+    "img": "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/02/Beach-1024x682.jpg"
+  }
+
+]
