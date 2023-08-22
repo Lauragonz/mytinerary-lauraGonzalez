@@ -2,13 +2,13 @@ import Navbar from 'react-bootstrap/Navbar';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import { Link } from 'react-router-dom';
-import 'bootstrap/dist/css/bootstrap.min.css'; // Import Bootstrap styles
+import 'bootstrap/dist/css/bootstrap.min.css'; 
 import './Header.css';
 
 function Header() {
   return (
     <div className="header">
-      <div className="d-flex justify-content-between align-items-center">
+      <div className="d-flex flex-column justify-content-between align-items-center w-100">
         <div className="d-flex align-items-center">
           <img className="header-logo" src="/localizacion.png" alt="" />
           <h1 className="me-2 header-title">My Tinerary</h1>
@@ -29,7 +29,7 @@ function Header() {
               </Navbar.Collapse>
             </Container>
           </Navbar>
-          <button className="btn custom-btn"><img className='img-user' src="../../public/user-interface.png" alt="" /></button>
+          <button className="btn custom-btn"><img className='img-user' src="/user-interface.png" alt="" /></button>
         </div>
       </div>
     </div>

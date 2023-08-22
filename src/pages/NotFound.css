@@ -3,7 +3,7 @@
 }
 
 .Opps {
-  color: var(--call-to-action);
+  color: var(--smoky-black);
 }
 
 .imgNF {
@@ -15,4 +15,5 @@
 
 .oops-p {
   font-size: 1.2rem;
+  color: var(--smoky-black);
 }
